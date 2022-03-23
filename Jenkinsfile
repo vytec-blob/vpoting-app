@@ -31,7 +31,6 @@ pipeline {
                echo "deploymenmt started"
             }
         }
-        }
     }
 }
 
