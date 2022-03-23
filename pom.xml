@@ -25,14 +25,14 @@
       <uniqueVersion>false</uniqueVersion>
       <id>votingapp-releases</id>
       <name>votingapp-releases</name>
-      <url>http://54.176.186.46:8081/repository/votingapp-releases/</url>
+      <url>http://172.31.25.15:8081/repository/votingapp-releases/</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>votingapp-snapshots</id>
       <name>votingapp-snapshots</name>
-      <url>http://54.176.186.46:8081/repository/votingapp-snapshots/</url>
+      <url>http://172.31.25.15:8081/repository/votingapp-snapshots/</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
